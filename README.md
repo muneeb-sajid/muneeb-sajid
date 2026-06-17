@@ -86,21 +86,6 @@ Full Stack Development
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneeb-sajid&show_icons=true&theme=github_dark" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-sajid&layout=compact&theme=github_dark" height="170">
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muneeb-sajid&theme=github-dark">
-</p>
-
 ---
 
 ## 🌐 Connect With Me
