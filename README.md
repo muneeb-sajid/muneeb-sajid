@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Muneeb Sajid
 
-<!--
-**muneeb-sajid/muneeb-sajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 A passionate Computer Science student bridging the gap between low-level systems and
 modern web development
@@ -40,4 +39,4 @@ modern web development
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-F54E00?style=for-the-badge&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
--->
+
