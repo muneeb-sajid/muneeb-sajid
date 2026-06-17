@@ -1,42 +1,120 @@
-## Hi there 👋 I am Muneeb Sajid
+# Hi 👋, I'm Muneeb Sajid
 
+### 💻 Full Stack Developer | 🎓 Computer Science Student | 🤖 AI Enthusiast
 
+Passionate about building impactful software, AI-powered solutions, and scalable web applications.
 
-A passionate Computer Science student bridging the gap between low-level systems and
-modern web development
+---
 
-🔭 I’m currently working on Raseed Application basically used OCR google vision for the platforms like uber , bykea , InDrive used to manage the daily earning and provinding the community to Workers on this platform and providing income certificate to get loans from the banks easily
+## 🚀 About Me
 
-🌱 I’m currently learning Full stack Web Development
+🔭 Currently building **Raseed** — an OCR-powered platform that helps Uber, Bykea, and inDrive workers track earnings, manage records, and generate income certificates.
 
-🔰 My Learning Roadmap includes Machine Learning, Computer Vision , Full Stack dev
+🌱 Currently learning:
+- ⚛️ Advanced React & Next.js
+- 🤖 Machine Learning
+- 👁️ Computer Vision
+- ☁️ Cloud Technologies
 
-👨‍💻 All of my projects are available at https://github.com/muneeb-sajid
+🎯 Goals:
+- Build AI-powered SaaS products
+- Contribute to Open Source
+- Master System Design
+- Create technology that solves real-world problems
 
-📫 Reach me at  muneebsajid@gmail.com
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
- 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
 
-⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
 
-🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
- ☁️ Hosting & AI Tools
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-F54E00?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### ☁️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,ubuntu,vscode" />
+</p>
 
+### 🤖 AI & OCR
+- Google Vision OCR
+- Cursor AI
+- Antigravity AI
+
+---
+
+## 🚖 Featured Project — Raseed
+
+### AI-Powered Income Management Platform
+
+✨ OCR-based receipt processing
+
+📊 Daily earnings analytics
+
+📄 Income certificate generation
+
+🤝 Community support for gig workers
+
+🏦 Loan facilitation through verified income records
+
+**Tech Used:** Next.js • Node.js • MongoDB • TypeScript • Google Vision OCR
+
+---
+
+## 📚 Current Roadmap
+
+```text
+Full Stack Development
+│
+├── Next.js & React Ecosystem
+├── Backend Architecture
+├── Machine Learning
+├── Computer Vision
+├── System Design
+└── Cloud & DevOps
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muneeb-sajid&show_icons=true&theme=github_dark" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-sajid&layout=compact&theme=github_dark" height="170">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muneeb-sajid&theme=github-dark">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** muneebsajid@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/muneeb-sajid/
+
+🐙 **GitHub:** https://github.com/muneeb-sajid
+
+---
+
+### 💡 Quote
+
+> "Building technology that creates real impact is more important than simply writing code."
+
+⭐ Feel free to explore my repositories and connect with me!
