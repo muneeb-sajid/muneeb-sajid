@@ -26,30 +26,9 @@ Passionate about building impactful software, AI-powered solutions, and scalable
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,git,github,vercel,ubuntu,vscode,postgresql" />   
 </p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### ☁️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,ubuntu,vscode" />
-</p>
-
-### 🤖 AI & OCR
-- Google Vision OCR
-- Cursor AI
-- Antigravity AI
 
 ---
 
@@ -67,7 +46,7 @@ Passionate about building impactful software, AI-powered solutions, and scalable
 
 🏦 Loan facilitation through verified income records
 
-**Tech Used:** Next.js • Node.js • MongoDB • TypeScript • Google Vision OCR
+**Tech Used:** Python • Node.js • MongoDB •  • Google Vision OCR
 
 ---
 
