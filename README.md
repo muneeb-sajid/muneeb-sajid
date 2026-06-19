@@ -69,7 +69,7 @@ Full Stack Development
 
 ## 🌐 Connect With Me
 
-📧 **Email:** muneebsajid@gmail.com
+📧 **Email:** muneebsajiddev@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/muneeb-sajid/
 
