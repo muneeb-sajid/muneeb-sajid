@@ -27,7 +27,7 @@ Passionate about building impactful software, AI-powered solutions, and scalable
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,git,github,vercel,ubuntu,vscode,postgresql" />   
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vercel,ubuntu,vscode,postgresql" />   
 </p>
 
 ---
